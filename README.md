@@ -1,4 +1,5 @@
-# CSE 332 Project 1
+# Implementation of WorkList Data Types
 
-Please see the linked spec on the website for more information!
+This project is from a Data Structures and Parallelism class, within it are my implementations of Stacks and Queues, such as: ListFIFOQueue, ArrayStack, and CircularArrayFIFOQueue
+Additionally, there are multiple implementations of tries, including: HashTrieMap and HashTrieSet
 
